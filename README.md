@@ -1,4 +1,5 @@
 # Music::Rb
+![build-badge](https://travis-ci.org/JakeCataford/music-rb.svg?branch=master)
 
 A domain model for music theory in ruby. Mostly educational for now.
 
